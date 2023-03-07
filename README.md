@@ -4,6 +4,7 @@
 Submission by Nevish Pathe, 220757
 
 Windows Build *&* Gameplay at : https://drive.google.com/drive/folders/1Vd_9a86Mn0fTyBeSNKFz0wsagqNGH3Ib?usp=share_link
+( Video also at : https://youtu.be/fj0JDS83abI )
 
 # Salient Features :
 
