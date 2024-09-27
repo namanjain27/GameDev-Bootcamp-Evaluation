@@ -1,13 +1,21 @@
-# GameDev-Bootcamp-Evaluation
-# evaluation-1
-An empty repository to demonstrate the GitHub flow and send PRs to.
+This project was developed by Adwait Vilas Kadam as part of the introductory project in the GameDev Club at IIT Kanpur
+# John Lemon’s Haunted Jaunt
 
-A typical GitHub workflow looks like this:
+Welcome to the repository for **John Lemon’s Haunted Jaunt**, an exciting game developed as an introductory project in the GameDev Club at IIT Kanpur.
 
-Fork -> Clone -> Branch -> Change -> Stage -> Commit -> Push -> Pull Request
+## Overview
 
-Here are some more links for explanation:
-1. Introduction to the GitHub Flow: https://guides.github.com/introduction/flow/
-1. Practice branching in your browser: https://learngitbranching.js.org/
-1. Visualize git operations: https://git-school.github.io/visualizing-git/
-1. Resources: https://try.github.io/
+John Lemon’s Haunted Jaunt is a thrilling game where you navigate through a haunted environment, solving puzzles and avoiding spooky obstacles. This project served as a hands-on introduction to game development concepts and tools.
+
+## Features
+
+- **Immersive Gameplay**: Experience the eerie atmosphere and intricate level design.
+- **Puzzles and Obstacles**: Engage with challenging puzzles and avoid spooky hazards.
+- **Smooth Controls**: Enjoy intuitive and responsive controls for a seamless gaming experience.
+
+## Getting Started
+
+### Prerequisites
+
+- Unity 2021.1 or later
+- Basic understanding of C# and game development concepts
